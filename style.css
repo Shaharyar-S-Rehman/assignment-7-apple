@@ -1,0 +1,166 @@
+.img{
+    width: 20px;
+    height: 20px;
+}
+#one{
+    height: 40px;
+    background-color: black;
+    margin-top: 0px;
+    
+}
+ul{
+    text-align: center;
+}
+.nav{
+    padding-top: 10px;
+    margin-left: 20px;
+    background-color: black;
+    color: grey;
+    width: 5%;
+    display: inline-block;
+}
+.nav>a{
+    text-decoration: none;
+    color: grey;
+}
+.nav>a:hover{
+    color: white;
+}
+#two{
+    margin-top: 0px;
+    height: 40px;
+    background-color: rgb(76, 76, 250);
+}
+#three{
+    margin-top: 0px;
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+p>a{
+    color: white;
+    text-decoration: none;
+}
+p>a:hover{
+    text-decoration: underline;
+}
+#four{
+    background-color: lavender;
+    margin-top: 0px;
+    height: 40px;
+}
+#five{
+    padding: 10px;
+    margin-top: 0px;
+    text-align: center;
+}
+#five>a{
+    text-decoration: none;
+    color: rgb(74, 74, 246);
+}
+#five>a:hover{
+    text-decoration: underline;
+}
+.two{
+    margin-top: 20px;
+    min-width: 20%;
+    max-width: 100%;
+    height: 100%;
+}
+.three{
+    margin-top: 20px;
+    display: inline;
+    min-width: 20%;
+    max-width: 48%;
+    height: 50%;
+}
+.one{
+    display: inline;
+    padding-left: 15px;
+}
+#six{
+    text-align: center;
+    background-color: whitesmoke;
+}
+#seven{
+    color: grey;
+    text-align: justify;
+    font-size: 15px;
+    margin: 0 15% 0 15%;
+    border: none;
+    border-bottom: 1px solid grey;
+}
+.four{
+    margin-top: 10px;
+}
+ul>li{
+    text-decoration: none;
+}
+.five{
+    text-decoration: none;
+    color: grey;
+    list-style-type: none;
+    text-align: left;
+    font-size: 15px;
+    padding: 5px;
+}
+.five>a{
+    text-decoration: none;
+    color: grey;
+}
+.five:hover{
+    text-decoration: underline;
+}
+.six{
+    display: inline-block;
+    margin-top: 0%;
+    text-decoration: none;
+}
+.seven{
+    border-bottom: 1px light grey;
+    border: none;
+    text-align: left;
+    color: grey;
+    font-size: 15px;
+}
+.seven>a{
+    text-decoration: none;
+    color: rgb(74, 74, 246);
+}
+
+.aa{
+    display: inline-block;
+}
+.bk1{
+    margin-left: 15px;
+}
+.bk1:hover{
+    text-decoration: underline;
+}
+#a1{
+    margin-left: 18%;
+}
+.eight{
+    text-align: left;
+    color: grey;
+}
+.boot{
+    color: royalblue;
+    text-decoration: none;
+    margin-left: 8px;
+}
+.boot:hover{
+    text-decoration: underline;
+}
+.booot{
+    color: royalblue;
+    text-decoration: none;
+    margin-left: 150px;
+}
+.booot:hover{
+    text-decoration: underline;
+}
+#bo{
+margin-bottom: 10px;
+}
